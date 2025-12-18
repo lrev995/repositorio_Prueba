@@ -1,2 +1,3 @@
 Este es mi primer commit
 Este es mi segundo commit
+Nuestro fichero es el bueno, no nos gustan los conflictos.
